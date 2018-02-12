@@ -1,0 +1,18 @@
+[ERROR ] 15/03/2015 13:57:41 (com.mtbadi.commons.database.DataBaseUtil:isConnexionOK:132)
+ >> com.mtbadi.commons.database.DataBaseUtil.getConnexionPrams(DataBaseUtil.java:34)
+ >> com.mtbadi.commons.database.DataBaseUtil.isConnexionOK(DataBaseUtil.java:102)
+ >> Exception :  Le fichier spécifié est introuvable : ( C:\ProgramData\.mtbadi\commons\database\etc\sgc.cert )
+
+[ERROR ] 15/03/2015 13:57:41 (com.mtbadi.commons.database.DataBaseUtil:isConnexionOK:132)
+ >> com.mtbadi.commons.database.DataBaseUtil.getConnexionPrams(DataBaseUtil.java:34)
+ >> com.mtbadi.commons.database.DataBaseUtil.isConnexionOK(DataBaseUtil.java:102)
+ >> Exception :  Le fichier spécifié est introuvable : ( C:\ProgramData\.mtbadi\commons\database\etc\nps.cert )
+
+[ERROR ] 15/03/2015 13:57:59 (com.mtbadi.commons.database.ConnectionParametresDialog:<init>:54)
+ >> com.mtbadi.commons.database.ConnectionParametresDialog.<init>(ConnectionParametresDialog.java:46)
+ >> Exception :  Le fichier spécifié est introuvable : ( C:\ProgramData\.mtbadi\commons\database\etc\nps.cert )
+
+[ERROR ] 15/03/2015 13:58:24 (com.mtbadi.commons.database.ConnectionParametresDialog:<init>:54)
+ >> com.mtbadi.commons.database.ConnectionParametresDialog.<init>(ConnectionParametresDialog.java:46)
+ >> Exception :  Le fichier spécifié est introuvable : ( C:\ProgramData\.mtbadi\commons\database\etc\sgc.cert )
+
